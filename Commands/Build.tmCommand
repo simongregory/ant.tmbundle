@@ -42,7 +42,7 @@ fi
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>scope</key>
-	<string>text.xml.ant</string>
+	<string>text.xml.ant, text.xml.mxml, source.actionscript.3</string>
 	<key>uuid</key>
 	<string>C7888301-C304-4EF2-A15F-5681A7D6D13C</string>
 </dict>

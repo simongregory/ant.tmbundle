@@ -92,7 +92,7 @@ html_footer
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>scope</key>
-	<string>text.xml.ant</string>
+	<string>text.xml.ant, text.xml.mxml, source.actionscript.3</string>
 	<key>uuid</key>
 	<string>05BC9A24-B64E-42D6-8177-326518E65EE0</string>
 </dict>

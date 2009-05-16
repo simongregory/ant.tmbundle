@@ -1,6 +1,16 @@
 TextMate Ant Bundle
 ===================
 
+Sg Branch
+-----------------
+
+The version of the bundle I use on a day to day basis whilst developing.
+
+'master' differences:
+
+ * Template command creates a .xml file rather than ant.xml file.
+ * Relevant scopes are changed to include ActionScript 3 and MXML.
+
 Installation
 ------------
 

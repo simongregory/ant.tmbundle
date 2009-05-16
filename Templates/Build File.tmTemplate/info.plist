@@ -10,7 +10,7 @@
       &lt; build.xml &gt; "$TM_NEW_FILE"
 fi</string>
 	<key>extension</key>
-	<string>ant.xml</string>
+	<string>.xml</string>
 	<key>name</key>
 	<string>Build File</string>
 	<key>scope</key>
