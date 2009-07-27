@@ -15,6 +15,10 @@ TM_PROJECT_DIR=`dirname "$TM_PROJECT_FILEPATH"`;
 
 #TM_ANT_BUILD_PARSER=htmlize_ant.py
 
+if [[ "$TM_ANT_HOME" != "" ]]; then 
+	export ANT_HOME=$TM_ANT_HOME
+fi
+
 if [[ "$TM_ANT_BUILD_PARSER" == "" ]]; then 
 	TM_ANT_BUILD_PARSER=pre
 fi
